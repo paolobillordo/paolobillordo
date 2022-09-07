@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  <h1 align="center">Hi 👋, I’m Paolo</h1>
+  <h3 align="cener">Algor hay que poner aqui</h3>
+
+
+</div>
+
 
 <!--
 **paolobillordo/paolobillordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
