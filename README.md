@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   <h1 align="center">Hi 👋, I’m Paolo</h1>
-  <h3 align="cener">Algor hay que poner aqui</h3>
-
-
+  <h3 align="cener"></h3>
 </div>
+
 
 
 <!--
